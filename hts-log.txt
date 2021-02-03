@@ -1,0 +1,39 @@
+HTTrack3.49-2 launched on Wed, 03 Feb 2021 13:03:50 at http://www.bulkwhatsapponline.club/index.php
+(winhttrack http://www.bulkwhatsapponline.club/index.php -O "/root/websites/whatsapp2" -Y -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:04:40	Error: 	"Not Found" (404) at link www.bulkwhatsapponline.club/js/jquery-1.11.1.min.js (from www.bulkwhatsapponline.club/index.php)
+13:04:40	Error: 	"Not Found" (404) at link www.bulkwhatsapponline.club/js/modernizr.custom.js (from www.bulkwhatsapponline.club/index.php)
+13:04:41	Error: 	"Not Found" (404) at link www.bulkwhatsapponline.club/js/metisMenu.min.js (from www.bulkwhatsapponline.club/index.php)
+13:04:41	Error: 	"Not Found" (404) at link www.bulkwhatsapponline.club/js/custom.js (from www.bulkwhatsapponline.club/index.php)
+13:04:41	Error: 	"Not Found" (404) at link www.bulkwhatsapponline.club/js/SidebarNav.min.js (from www.bulkwhatsapponline.club/index.php)
+13:04:41	Error: 	"Not Found" (404) at link www.bulkwhatsapponline.club/js/classie.js (from www.bulkwhatsapponline.club/index.php)
+13:04:41	Error: 	"Not Found" (404) at link www.bulkwhatsapponline.club/js/jquery.nicescroll.js (from www.bulkwhatsapponline.club/index.php)
+13:04:41	Error: 	"Not Found" (404) at link www.bulkwhatsapponline.club/js/scripts.js (from www.bulkwhatsapponline.club/index.php)
+13:04:41	Error: 	"Not Found" (404) at link www.bulkwhatsapponline.club/js/bootstrap.js (from www.bulkwhatsapponline.club/index.php)
+13:04:41	Error: 	"Not Found" (404) at link www.bulkwhatsapponline.club/fonts/glyphicons-halflings-regular.eot (from www.bulkwhatsapponline.club/css/bootstrap.css)
+13:04:41	Error: 	"Not Found" (404) at link www.bulkwhatsapponline.club/fonts/glyphicons-halflings-regular.eot? (from www.bulkwhatsapponline.club/css/bootstrap.css)
+13:04:41	Error: 	"Not Found" (404) at link www.bulkwhatsapponline.club/fonts/glyphicons-halflings-regular.woff2 (from www.bulkwhatsapponline.club/css/bootstrap.css)
+13:04:41	Error: 	"Not Found" (404) at link www.bulkwhatsapponline.club/fonts/glyphicons-halflings-regular.woff (from www.bulkwhatsapponline.club/css/bootstrap.css)
+13:04:41	Error: 	"Not Found" (404) at link www.bulkwhatsapponline.club/fonts/glyphicons-halflings-regular.ttf (from www.bulkwhatsapponline.club/css/bootstrap.css)
+13:04:41	Error: 	"Not Found" (404) at link www.bulkwhatsapponline.club/fonts/glyphicons-halflings-regular.svg (from www.bulkwhatsapponline.club/css/bootstrap.css)
+13:04:41	Error: 	"Not Found" (404) at link www.bulkwhatsapponline.club/images/search-icon.png (from www.bulkwhatsapponline.club/css/style.css)
+13:04:41	Error: 	"Not Found" (404) at link www.bulkwhatsapponline.club/images/user.png (from www.bulkwhatsapponline.club/css/style.css)
+13:04:41	Error: 	"Not Found" (404) at link www.bulkwhatsapponline.club/images/lock.png (from www.bulkwhatsapponline.club/css/style.css)
+13:04:41	Error: 	"Not Found" (404) at link www.bulkwhatsapponline.club/images/mail.png (from www.bulkwhatsapponline.club/css/style.css)
+13:04:41	Error: 	"Not Found" (404) at link www.bulkwhatsapponline.club/images/weather.jpg (from www.bulkwhatsapponline.club/css/style.css)
+13:04:41	Error: 	"Not Found" (404) at link www.bulkwhatsapponline.club/images/img1.png (from www.bulkwhatsapponline.club/css/style.css)
+13:04:41	Error: 	"Not Found" (404) at link www.bulkwhatsapponline.club/images/tick.png (from www.bulkwhatsapponline.club/css/style.css)
+13:04:41	Error: 	"Not Found" (404) at link www.bulkwhatsapponline.club/fonts/fontawesome-webfont.eot?v=4.6.3 (from www.bulkwhatsapponline.club/css/font-awesome.css)
+13:04:41	Error: 	"Not Found" (404) at link www.bulkwhatsapponline.club/fonts/fontawesome-webfont.eot? (from www.bulkwhatsapponline.club/css/font-awesome.css)
+13:04:41	Error: 	"Not Found" (404) at link www.bulkwhatsapponline.club/fonts/fontawesome-webfont.woff2?v=4.6.3 (from www.bulkwhatsapponline.club/css/font-awesome.css)
+13:04:41	Error: 	"Not Found" (404) at link www.bulkwhatsapponline.club/fonts/fontawesome-webfont.woff?v=4.6.3 (from www.bulkwhatsapponline.club/css/font-awesome.css)
+13:04:41	Error: 	"Not Found" (404) at link www.bulkwhatsapponline.club/fonts/fontawesome-webfont.ttf?v=4.6.3 (from www.bulkwhatsapponline.club/css/font-awesome.css)
+13:04:41	Error: 	"Not Found" (404) at link www.bulkwhatsapponline.club/fonts/fontawesome-webfont.svg?v=4.6.3 (from www.bulkwhatsapponline.club/css/font-awesome.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 51 seconds : 41 links scanned, 11 files written (758240 bytes overall) [561468 bytes received at 11009 bytes/sec], 280531 bytes transferred using HTTP compression in 4 files, ratio 22%, 4.1 requests per connection
+(28 errors, 0 warnings, 0 messages)

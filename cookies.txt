@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.bulkwhatsapponline.club	TRUE	/	FALSE	1999999999	PHPSESSID	b413bcee2e9b8d73096ffc4a3673dd24
+
